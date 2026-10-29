@@ -1,0 +1,65 @@
+{
+  "manifest_version": 3,
+  "name": "Matching URL Colors \u2014 Experimental",
+  "version": "1.0.0",
+  "description": "Experimental dark theme requesting identical URL text and field colors. Chrome may override colors; URL hiding is not guaranteed.",
+  "theme": {
+    "colors": {
+      "frame": [
+        32,
+        33,
+        36
+      ],
+      "frame_inactive": [
+        32,
+        33,
+        36
+      ],
+      "toolbar": [
+        32,
+        33,
+        36
+      ],
+      "omnibox_background": [
+        32,
+        33,
+        36
+      ],
+      "omnibox_text": [
+        32,
+        33,
+        36
+      ],
+      "tab_text": [
+        232,
+        234,
+        237
+      ],
+      "tab_background_text": [
+        189,
+        193,
+        198
+      ],
+      "bookmark_text": [
+        232,
+        234,
+        237
+      ],
+      "toolbar_button_icon": [
+        232,
+        234,
+        237
+      ],
+      "ntp_background": [
+        32,
+        33,
+        36
+      ],
+      "ntp_text": [
+        232,
+        234,
+        237
+      ]
+    }
+  }
+}
